@@ -1,1 +1,1 @@
-# -Exploratory-Data-Analysis
+Olimpiyat verilerinin incelenmesi.
